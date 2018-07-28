@@ -125,4 +125,4 @@ def calc_csi(b1, b2, b3, remainder):
 
 
 if __name__ == '__main__':
-    print(len(read_csi(r'..\data\csi.dat')))
+    print(read_csi(r'..\data\csi.dat'))
